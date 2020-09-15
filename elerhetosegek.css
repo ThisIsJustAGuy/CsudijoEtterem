@@ -1,0 +1,43 @@
+article {
+  text-align: center;
+  max-width: 50vw;
+  max-height: 100vh;
+}
+
+article iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+section {
+  overflow-y: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.ce--contacts {
+  text-align: center;
+}
+
+.ce--icon {
+  width: 8vw;
+  height: 8vh;
+  margin-top: 3vh;
+  margin-bottom: 8px;
+}
+
+.ce--divider {
+  border-top: 1px solid #f1faee;
+}
+
+.ce--icons-sm {
+  width: 4vw;
+  height: 4vh;
+}
+
+.ce--icons-sm-container {
+  text-align: center;
+}
+/*# sourceMappingURL=elerhetosegek.css.map */

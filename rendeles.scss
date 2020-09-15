@@ -22,6 +22,7 @@ section {
   }
 }
 article {
+  overflow-y: auto; //ezt én adtam hozzá Alex
   .ce--row {
     display: flex;
     height: 50vh;

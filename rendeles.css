@@ -28,6 +28,10 @@ section .ce--item .ce--ar {
   opacity: 0.75;
 }
 
+article {
+  overflow-y: auto;
+}
+
 article .ce--row {
   display: -webkit-box;
   display: -ms-flexbox;
